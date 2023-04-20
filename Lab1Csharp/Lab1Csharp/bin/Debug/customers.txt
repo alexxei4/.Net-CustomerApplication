@@ -1,0 +1,15 @@
+Archer Mobourne, 8905567, Distance Sensor, 95.39, 135
+Bianca Fairbridge, 4061481, Temperature Sensor, 56.49, 200
+Aidan Tazewell, 8966943, Fingerprint Sensor, 56.68, 226
+Declan Leckie, 2660214, Optical Sensor, 53.56, 92
+Brianna Monckton, 3993141, FPGA - Configuration Memory, 49.13, 202
+Taj Ogilvy, 2049678, Chipsets Q65, 50.56, 136
+Jessica Beal, 8184411, RF System on a Chip, 77.29, 69
+Madeline Macaulay, 4604054, Switching Voltage Regulators, 38.77, 236
+William Axon, 9101606, Industrial Humidity Sensors, 46.35, 280
+Emily Robert, 6126914, XinaBox XK05, 33.53, 46
+Tayla Selfe, 6082443, NAND Flash 4Gb, 74.35, 251
+Hayley Lamond, 1720107, Audio Amplifiers , 35.33, 293
+Maya Silcock, 4498879, Industrial Temperature Sensors, 10.32, 261
+Ben Bisdee, 7480909, Heat Sinks - LED Heat, 26.87, 281
+William Darnell, 7400720, Photoelectric Sensors, 71.85, 266
